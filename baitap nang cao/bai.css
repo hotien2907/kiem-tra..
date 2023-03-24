@@ -1,0 +1,78 @@
+.header {
+    height: 100px;
+    background-color: #FC5D33;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    align-items: center;
+    padding: 0 20px;
+    cursor: pointer;
+    font-size: 40px;
+}
+
+
+.list {
+    display: flex;
+    gap: 20px;
+}
+
+.list li {
+
+    list-style: none;
+}
+
+input {
+    width: 500px;
+    height: 50px;
+    font-size: 20px;
+
+}
+
+.item2 {
+    background-color: white;
+    width: 50px;
+    color: red;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+.dieu-huong {
+    display: flex;
+    background-color: #d4c4bd;
+    gap: 20px;
+    height: 700px;
+    justify-content: space-between;
+    font-size: 20px;
+
+}
+
+.dieu-huong div {
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    gap: 20px;
+}
+
+.nen {
+    border: 2px solid white;
+}
+
+.vach-do {
+
+    background-color: #FC5D33;
+}
+
+.dieu-huong2 {
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    border-top: 5px solid red;
+    border-bottom: 5px solid black;
+    padding-top: 30px;
+}
+.mau-do{
+    color: red;
+}
